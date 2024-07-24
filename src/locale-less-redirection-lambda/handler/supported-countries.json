@@ -1,0 +1,77 @@
+{
+  "pr": {
+    "default-locale": "es-pr"
+  },
+  "ca": {
+    "default-locale": "en-ca"
+  },
+  "au": {
+    "default-locale": "en-au"
+  },
+  "nz": {
+    "default-locale": "en-nz"
+  },
+  "in": {
+    "default-locale": "en-in"
+  },
+  "jp": {
+    "default-locale": "ja-jp"
+  },
+  "il": {
+    "default-locale": "en-il"
+  },
+  "sa": {
+    "default-locale": "en-sa"
+  },
+  "kw": {
+    "default-locale": "en-kw"
+  },
+  "qa": {
+    "default-locale": "en-qa"
+  },
+  "gb": {
+    "default-locale": "en-gb"
+  },
+  "es": {
+    "default-locale": "es-es"
+  },
+  "de": {
+    "default-locale": "de-de"
+  },
+  "pl": {
+    "default-locale": "en-pl"
+  },
+  "dk": {
+    "default-locale": "da-dk"
+  },
+  "fr": {
+    "default-locale": "fr-fr"
+  },
+  "gt": {
+    "default-locale": "es-gt"
+  },
+  "mx": {
+    "default-locale": "es-mx"
+  },
+  "cr": {
+    "default-locale": "es-cr"
+  },
+  "do": {
+    "default-locale": "es-do"
+  },
+  "co": {
+    "default-locale": "es-co"
+  },
+  "pe": {
+    "default-locale": "es-pe"
+  },
+  "us": {
+    "default-locale": "en-us"
+  },
+  "ae": {
+    "default-locale": "en-ae"
+  },
+  "bh": {
+    "default-locale": "en-bh"
+  }
+}
